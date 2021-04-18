@@ -1,5 +1,10 @@
-# Dataset-for-Deep-Graph-Translation
-This page summarize and provide the data and applications for the deep graph translation problem. The deep graph translation problem aims to learn the mapping rules among graphs atomatically by oberving large amount of graph pairs based on the deep learning methods. There are two versions of deep graph translation problems: one is to learn a one-to-one mapping rule between the input graph and target graph, as the defination by Guo et al [1]; another is to learn a one-to-many mapping rule between the input graph and a set of target graphs, which is defined by Guo et al [2]; To avoid loss of generality, the graph in this problems can be all kinds of graphs, such as directed/undirected graphs, sign graphs, and multi-attributed graph. 
+# Deep Graph Generation Dataset Collections
+This page summarize and provide the data and applications for the deep graph generation problem. Deep graph generation includes two main tasks, generation and translation. The generation problem aims to learn the distribution of the training graphs and sample novel graphs from the learnt distribution, while the translation problem aims to learn the mapping rules among graphs atomatically by oberving large amount of graph pairs based on the deep learning methods. 
+
+### Deep Graph Generation
+
+### Deep Graph Translation
+There are two versions of deep graph translation problems: one is to learn a one-to-one mapping rule between the input graph and target graph, as the defination by Guo et al [1]; another is to learn a one-to-many mapping rule between the input graph and a set of target graphs, which is defined by Guo et al [2]; To avoid loss of generality, the graph in this problems can be all kinds of graphs, such as directed/undirected graphs, sign graphs, and multi-attributed graph. 
 
 ![image_text](images/graph_translation.png "Deep Graph Translation")
 
