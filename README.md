@@ -1,4 +1,4 @@
-# Deep Graph Generation Dataset Collections
+# GraphGen: Graph Generative Dataset Collections
 This page summarize and provide the data and applications for the deep graph generation problem. Deep graph generation includes two main tasks, generation and translation. The generation problem aims to learn the distribution of the training graphs and sample novel graphs from the learnt distribution, while the translation problem aims to learn the mapping rules among graphs atomatically by oberving large amount of graph pairs based on the deep learning methods. 
 
 ### Deep Graph Generation
